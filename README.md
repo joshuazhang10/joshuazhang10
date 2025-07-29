@@ -1,16 +1,16 @@
-## Hi there 👋
+![profile banner](/profile_banner.png)
 
-<!--
-**joshuazhang10/joshuazhang10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Welcome!
+![luvv](/luvv.webp)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**I'm Josh, a full-stack developer and student at Colby College graduating in 2026 studying CS AI and Music.**
+- 🔭 I’m currently working on [Recital-Generator](https://github.com/joshuazhang10/recital-generator) (a blend of my two big interests...)!
+- 📫 How to reach me: -> Email: jszhan26@colby.edu
+- Some of the technologies I have experience with include:  
+  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+  ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+  ![C](https://img.shields.io/badge/-blue?style=flat-square&logo=C)
+  ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square)
+  ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+  ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
