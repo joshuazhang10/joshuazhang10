@@ -4,7 +4,7 @@
 ![luvv](/luvv.webp)
 
 **I'm Josh, a full-stack developer and student at Colby College graduating in 2026 studying CS AI and Music.**
-- 🔭 I’m currently working on [Recital-Generator](https://github.com/joshuazhang10/recital-generator) (a blend of my two big interests...)!
+- 🔭 I’m currently working on... multiple projects, ask me about them LOL
 - 📫 How to reach me: -> Email: jszhan26@colby.edu
 - Some of the technologies I have experience with include:  
   ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
